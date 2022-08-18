@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/l3b67kRKDJSZbWtjjM/giphy.gif" width="100"/>
   
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/daniel-boadu-751b57232">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCvZbRY-0YGBWEC0OW8uAwJg">
@@ -36,7 +36,7 @@
 - :zap: On Mondays- Wednesday,I teach python programming to fresh college students on zoom  and further upload them on youtube.
 - :telescope: I believe within the right enviroment, we can create more by thinking further
 
-- :mailbox:How to reach me: <a href="your-linkedin-URL">
+- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/daniel-boadu-751b57232">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
