@@ -36,6 +36,8 @@
 
 - :zap: In my free time, I solve problems on leetcode and taking ALGORITHM courses on EDX.ORG.
 - :zap: On Mondays- Wednesday,I teach python programming to fresh college students on zoom  and further upload them on youtube.
-- telescope: I believe within the right enviroment, we can create more by thinking further
+- :telescope: I believe within the right enviroment, we can create more by thinking further
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
