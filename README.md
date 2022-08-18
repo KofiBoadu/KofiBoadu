@@ -53,3 +53,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   
 </div>
+
+---
+
+### :fire: My Stats :
