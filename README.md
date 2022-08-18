@@ -30,13 +30,13 @@
 
 ### :man_technologist: About Me :
 
-I am a self taught and Major #IT programming & Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> residing in Cleveland Ohio.
+#### I am a self taught and Major IT programming & Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> residing in Cleveland Ohio.
 
 - :telescope: I’m pursuing my college degree in APPLIED BUSINESS majoring in IT PROGRAMMING AND DEVELOPMENT.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Im currently exploring new opportunities such as internships, volunteer works  and any opportunity to learn and grow.
 
-- :zap: In my free time, I solve problems on leetcode,taking ALGORITHM courses on EDX.ORG.
+- :zap: In my free time, I solve problems on leetcode and taking ALGORITHM courses on EDX.ORG.
 - :zap: On Mondays- Wednesday,I teach python programming to fresh college students on zoom  and further upload them on youtube.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
