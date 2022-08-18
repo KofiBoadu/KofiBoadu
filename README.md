@@ -30,7 +30,7 @@
 
 ### :man_technologist: About Me :
 
-I am a self taught and Major IT programming & Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> residing in Cleveland Ohio.
+I am a self taught and Major #IT programming & Development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> residing in Cleveland Ohio.
 
 - :telescope: I’m pursuing my college degree in APPLIED BUSINESS majoring in IT PROGRAMMING AND DEVELOPMENT.
 
