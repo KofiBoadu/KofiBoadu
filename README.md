@@ -29,13 +29,15 @@
 ### :man_technologist: About Me :
 
 
-#### I am a self-taught and Major IT Programming & Development student ![programming gif](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif) residing in Cleveland, Ohio.
+#### I’m a dedicated programming student actively seeking entry-level roles or volunteer positions to further hone my software development expertise. Proficient in Python, HTML, CSS, C#, JavaScript, Java, and Flask, I come equipped with a broad tech skillset, primed for application in a professional environment.
 
-- :seedling: I am currently exploring new opportunities such as internships, volunteer works, and any opportunity to learn and grow.
+- :seedling: My travels across 14 countries have enriched my adaptability, cultural sensitivity, and global perspective, making me adept at navigating diverse settings and collaborating with multi-cultural teams.  Beyond coding, I’m profoundly passionate about teaching programming to underprivileged students in Ghana. 
 
-- :zap: In my free time, I solve problems on LeetCode and take ALGORITHM courses on [EDX.ORG](https://www.edx.org/).
-- :zap: On Mondays-Wednesday, I teach Python programming to fresh college students on Zoom and further upload them on YouTube.
-- :telescope: I believe within the right environment, we can create more by thinking further.
+
+- :zap: Over a span of 7 weeks, I’ve mentored 18-20 students, continually witnessing their progression and success.
+
+- :zap: I pride myself on being a dependable team player, always committed to meeting deadlines. Furthermore, I have a comprehensive grasp of version control using Git and GitHub, coupled with my expertise in AWS deployment with CD/CI.
+- :telescope: With my mix of technical knowledge, world experience, and commitment to community empowerment, I’m prepared to be a pivotal asset to any team.
 
 ### Experience
 
